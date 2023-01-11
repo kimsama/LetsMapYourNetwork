@@ -4,10 +4,10 @@
 
 #### Using DockerHub - Linux only ####
 1. Install [docker & docker-compose](https://docs.docker.com/install/linux/docker-ce/debian/#install-using-the-repository)
-   - sudo apt-get update
-   - sudo apt-get install docker-ce docker-compose
+   - _sudo apt-get update_
+   - _sudo apt-get install docker-ce docker-compose_
 2. wget https://raw.githubusercontent.com/varchashva/LetsMapYourNetwork/master/docker-compose.yml
-3. sudo docker-compose up
+3. _sudo docker-compose up_
 4. Browse to http://localhost:9999/core and you are set to explore the tool :)
 
 ### Long version ###
